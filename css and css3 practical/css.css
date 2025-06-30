@@ -1,0 +1,27 @@
+/* Style the form */
+#contact-form {
+  background-color: #e0f7fa;
+  padding: 20px;
+  margin: 40px auto;
+  width: 300px;
+}
+
+/* Common input and textarea styles */
+.input-field {
+  margin: 10px 0;
+  padding: 8px;
+  width: 100%;
+}
+
+/* Submit button with hover effect */
+#submit-btn {
+  background-color: #0288d1;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+#submit-btn:hover {
+  background-color: #01579b;
+}
